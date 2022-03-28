@@ -1,0 +1,30 @@
+#p_blue{
+    color:blue;
+}
+
+#p_orange {
+    color: orangered;
+}
+
+#p_pink {
+    color: purple;
+}
+
+h1 {
+    background-color: rgba(240, 220, 223, 0.308);
+    color: palevioletred;
+    font-size: 3rem;
+    font: bold;
+    text-align: center;
+}
+
+p {
+    background-color:rgb(199, 140, 120);
+    text-align: center;
+    font-size: 2rem;
+}
+
+body {
+    padding-inline: 10cm;
+    padding-bottom: 1cm;
+}
